@@ -1,6 +1,6 @@
 ---
 title: Mac Git edits
-date: 2020-05-17:17:44
+date: 2020-05-13T17:17:44.000Z
 description: editing on mac
 ---
 
@@ -31,4 +31,6 @@ M.P.R.I. CipherTAC-2000 ASPIC Sinaloa event security humint UOP
 
 Ronco Islamist Soros Perl-RSA Dick Cheney USCODE Leitrim SP4 Phishing
 Mafia Al-Shabaab TUSA XS4ALL Airport Terrorism Defensive Information
+
+Can a bad DT really break publishing? how would we find out? 
 

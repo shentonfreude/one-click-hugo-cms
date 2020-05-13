@@ -10,7 +10,7 @@ ingredients: |
   300 ml Milk
 procedure: |
   * Rehydrate the Bacalo in water overnight, changing it twice
-  * make a bechemel with butter, flour, milk
+  * make a bechamel with butter, flour, milk
   * cut up Bacalo, saute in buttter, add to bechemel
   * use a pastry bag to fill the socks
 ---
